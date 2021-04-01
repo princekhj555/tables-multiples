@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#4dd0e1</item>
+        <item name="colorPrimaryDark">#009faf</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorButtonNormal">#88ffff</item>
+        <item name="android:icon">@drawable/tables</item>
+
+    </style>
+    <style name="tableText">
+        <item name="android:textSize">25sp</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="fontFamily">sans-serif-condensed</item>
+        <item name="android:textColor">#5d4037</item>
+    </style>
+
+</resources>
